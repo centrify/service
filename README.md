@@ -1,3 +1,9 @@
+# DISCLAIMER
+
+This fork of kardianos/service is temporary and is intended for Centrify's internal use.
+It is not supported or maintained by Centrify. 
+Please refer to the original location https://github.com/kardianos/service for latest versions of the module.
+
 # service [![GoDoc](https://godoc.org/github.com/kardianos/service?status.svg)](https://godoc.org/github.com/kardianos/service)
 
 service will install / un-install, start / stop, and run a program as a service (daemon).
